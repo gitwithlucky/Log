@@ -1,0 +1,3270 @@
+>>>>> RPC endpoint 1 Currently in use >>>>>
+Database Connected
+Oracle Price =  [
+  { denom: 'BTC', amount: '69375.002441039419075171' },
+  { denom: 'USK', amount: '0.983560708087665010' }
+]
+Collateral Filter Price (CFP) =  68681.25241662902
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.872759710651169922' },
+  { denom: 'USK', amount: '0.983589295108125004' }
+]
+Collateral Filter Price (CFP) =  0.8465769193316348
+totalAmountOfCollateralAtRisk =  2166.4868969999998
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 64.383485 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [ { denom: 'ukuji', amount: '50000' } ],
+  pagination: { next_key: null, total: '1' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.232381469732336170' },
+  { denom: 'USDC', amount: '1.000012608647213168' }
+]
+Collateral Filter Price (CFP) =  0.22541002564036608
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.232381469732336170' },
+  { denom: 'USDC', amount: '1.000012608647213168' }
+]
+Collateral Filter Price (CFP) =  0.22541002564036608
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.626752040276759823' },
+  { denom: 'USK', amount: '0.983589295108125004' }
+]
+Collateral Filter Price (CFP) =  10.414216999471224
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.848645186380754363' },
+  { denom: 'USK', amount: '0.983589295108125004' }
+]
+Collateral Filter Price (CFP) =  7.69167228265314
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.014016337820248208' },
+  { denom: 'USK', amount: '0.983589295108125004' }
+]
+Collateral Filter Price (CFP) =  0.013595847685640762
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.051675768820372622' },
+  { denom: 'USK', amount: '0.983589295108125004' }
+]
+Collateral Filter Price (CFP) =  0.05012549575576144
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2304.578326281243305865' },
+  { denom: 'USK', amount: '0.983589295108125004' }
+]
+Collateral Filter Price (CFP) =  2281.5325430184307
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.274914619939843253' },
+  { denom: 'USK', amount: '0.983589295108125004' }
+]
+Collateral Filter Price (CFP) =  1.236667181341648
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.232381469732336170' },
+  { denom: 'USK', amount: '0.983589295108125004' }
+]
+Collateral Filter Price (CFP) =  0.22541002564036608
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.084309582319533395' },
+  { denom: 'USDC', amount: '1.000012608647213168' }
+]
+Collateral Filter Price (CFP) =  3.961780294849947
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.274914619939843253' },
+  { denom: 'USDC', amount: '1.000012608647213168' }
+]
+Collateral Filter Price (CFP) =  1.236667181341648
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.687342993298639240' },
+  { denom: 'USK', amount: '0.983589295108125004' }
+]
+Collateral Filter Price (CFP) =  0.66672270349968
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [ { denom: 'ukuji', amount: '50000' } ],
+  pagination: { next_key: null, total: '1' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69413.820524210334322443' },
+  { denom: 'USK', amount: '0.983649409299210920' }
+]
+Collateral Filter Price (CFP) =  68719.68231896822
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.873633588115892533' },
+  { denom: 'USK', amount: '0.983649409299210920' }
+]
+Collateral Filter Price (CFP) =  0.8474245804724158
+totalAmountOfCollateralAtRisk =  2166.4868969999998
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 },
+  { liquidationPrice: 64.383485 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [ { denom: 'ukuji', amount: '50000' } ],
+  pagination: { next_key: null, total: '1' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.232400454864998166' },
+  { denom: 'USDC', amount: '0.999949626121708985' }
+]
+Collateral Filter Price (CFP) =  0.2254284412190482
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.232400454864998166' },
+  { denom: 'USDC', amount: '0.999949626121708985' }
+]
+Collateral Filter Price (CFP) =  0.2254284412190482
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.621835336033756391' },
+  { denom: 'USK', amount: '0.983657974276628081' }
+]
+Collateral Filter Price (CFP) =  10.409398629313081
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.844993329526095235' },
+  { denom: 'USK', amount: '0.983657974276628081' }
+]
+Collateral Filter Price (CFP) =  7.688093462935573
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.013988540334855121' },
+  { denom: 'USK', amount: '0.983657974276628081' }
+]
+Collateral Filter Price (CFP) =  0.013568884124809468
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.051698284753437384' },
+  { denom: 'USK', amount: '0.983657974276628081' }
+]
+Collateral Filter Price (CFP) =  0.05014733621083426
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2304.364701422650784810' },
+  { denom: 'USK', amount: '0.983657974276628081' }
+]
+Collateral Filter Price (CFP) =  2281.321054408424
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.275430214517627610' },
+  { denom: 'USK', amount: '0.983657974276628081' }
+]
+Collateral Filter Price (CFP) =  1.2371673080820986
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.232400454864998166' },
+  { denom: 'USK', amount: '0.983657974276628081' }
+]
+Collateral Filter Price (CFP) =  0.2254284412190482
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.118396352525464926' },
+  { denom: 'USDC', amount: '0.999949626121708985' }
+]
+Collateral Filter Price (CFP) =  3.9948444619497003
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.275430214517627610' },
+  { denom: 'USDC', amount: '0.999949626121708985' }
+]
+Collateral Filter Price (CFP) =  1.2371673080820986
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.686332728528843668' },
+  { denom: 'USK', amount: '0.983657974276628081' }
+]
+Collateral Filter Price (CFP) =  0.6657427466729783
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [ { denom: 'ukuji', amount: '50000' } ],
+  pagination: { next_key: null, total: '1' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69443.799104013550655211' },
+  { denom: 'USK', amount: '0.983740208666731354' }
+]
+Collateral Filter Price (CFP) =  68749.36111297342
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.874814655133443592' },
+  { denom: 'USK', amount: '0.983657848544537746' }
+]
+Collateral Filter Price (CFP) =  0.8485702154794402
+totalAmountOfCollateralAtRisk =  64.383547
+collateralAtRiskArray =  [
+  { liquidationPrice: 64.383485 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.232597546072072979' },
+  { denom: 'USDC', amount: '0.999972531553711231' }
+]
+Collateral Filter Price (CFP) =  0.2256196196899108
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.232619601671639673' },
+  { denom: 'USDC', amount: '0.999897213493580379' }
+]
+Collateral Filter Price (CFP) =  0.22564101362149047
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.649251894730973215' },
+  { denom: 'USK', amount: '0.983657848544537746' }
+]
+Collateral Filter Price (CFP) =  10.436266856836353
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.865247067563244525' },
+  { denom: 'USK', amount: '0.983657848544537746' }
+]
+Collateral Filter Price (CFP) =  7.70794212621198
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.013998570059338597' },
+  { denom: 'USK', amount: '0.983657848544537746' }
+]
+Collateral Filter Price (CFP) =  0.013578612957558439
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.051749305434967836' },
+  { denom: 'USK', amount: '0.983657848544537746' }
+]
+Collateral Filter Price (CFP) =  0.0501968262719188
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2305.298776554849553300' },
+  { denom: 'USK', amount: '0.983657848544537746' }
+]
+Collateral Filter Price (CFP) =  2282.245788789301
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.276467028866390583' },
+  { denom: 'USK', amount: '0.983657848544537746' }
+]
+Collateral Filter Price (CFP) =  1.238173018000399
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.232619601671639673' },
+  { denom: 'USK', amount: '0.983657848544537746' }
+]
+Collateral Filter Price (CFP) =  0.22564101362149047
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.130478378309845884' },
+  { denom: 'USDC', amount: '0.999897213493580379' }
+]
+Collateral Filter Price (CFP) =  4.00656402696055
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.276467028866390583' },
+  { denom: 'USDC', amount: '0.999897213493580379' }
+]
+Collateral Filter Price (CFP) =  1.238173018000399
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.688425147085086701' },
+  { denom: 'USK', amount: '0.983657848544537746' }
+]
+Collateral Filter Price (CFP) =  0.6677723926725341
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'BTC', amount: '69430.444279500521567378' },
+  { denom: 'USK', amount: '0.984418987439496297' }
+]
+Collateral Filter Price (CFP) =  68736.13983670551
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.874984682472376659' },
+  { denom: 'USK', amount: '0.984418987439496297' }
+]
+Collateral Filter Price (CFP) =  0.8487351419982054
+totalAmountOfCollateralAtRisk =  64.383547
+collateralAtRiskArray =  [
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 },
+  { liquidationPrice: 64.383485 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.232839213101155467' },
+  { denom: 'USDC', amount: '0.999889262453161555' }
+]
+Collateral Filter Price (CFP) =  0.2258540367081208
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.232839213101155467' },
+  { denom: 'USDC', amount: '0.999889262453161555' }
+]
+Collateral Filter Price (CFP) =  0.2258540367081208
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.645202356902009598' },
+  { denom: 'USK', amount: '0.984418987439496297' }
+]
+Collateral Filter Price (CFP) =  10.432298309763969
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.862213120807886495' },
+  { denom: 'USK', amount: '0.984418987439496297' }
+]
+Collateral Filter Price (CFP) =  7.704968858391729
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.014001567593147337' },
+  { denom: 'USK', amount: '0.984418987439496297' }
+]
+Collateral Filter Price (CFP) =  0.013581520565352915
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.051765579090496176' },
+  { denom: 'USK', amount: '0.984418987439496297' }
+]
+Collateral Filter Price (CFP) =  0.05021261171778129
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2305.410291095943020411' },
+  { denom: 'USK', amount: '0.984418987439496297' }
+]
+Collateral Filter Price (CFP) =  2282.3561881849837
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.277115092775098744' },
+  { denom: 'USK', amount: '0.984418987439496297' }
+]
+Collateral Filter Price (CFP) =  1.2388016399918458
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.232839213101155467' },
+  { denom: 'USK', amount: '0.984418987439496297' }
+]
+Collateral Filter Price (CFP) =  0.2258540367081208
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.175087242607544895' },
+  { denom: 'USDC', amount: '0.999889262453161555' }
+]
+Collateral Filter Price (CFP) =  4.049834625329319
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.277115092775098744' },
+  { denom: 'USDC', amount: '0.999889262453161555' }
+]
+Collateral Filter Price (CFP) =  1.2388016399918458
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.688954319278360162' },
+  { denom: 'USK', amount: '0.984418987439496297' }
+]
+Collateral Filter Price (CFP) =  0.6682856897000093
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'BTC', amount: '69341.501542967213750621' },
+  { denom: 'USK', amount: '0.985975319885015139' }
+]
+Collateral Filter Price (CFP) =  68648.08652753755
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.874419799855208043' },
+  { denom: 'USK', amount: '0.986172865516957086' }
+]
+Collateral Filter Price (CFP) =  0.8481872058595518
+totalAmountOfCollateralAtRisk =  64.383547
+collateralAtRiskArray =  [
+  { liquidationPrice: 64.383485 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233563880628349617' },
+  { denom: 'USDC', amount: '0.999998871651818065' }
+]
+Collateral Filter Price (CFP) =  0.22655696420949914
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233563880628349617' },
+  { denom: 'USDC', amount: '0.999998871651818065' }
+]
+Collateral Filter Price (CFP) =  0.22655696420949914
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.611461505073298024' },
+  { denom: 'USK', amount: '0.986172865516957086' }
+]
+Collateral Filter Price (CFP) =  10.399232274971832
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.837314251744550642' },
+  { denom: 'USK', amount: '0.986172865516957086' }
+]
+Collateral Filter Price (CFP) =  7.68056796670966
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.014003881893430631' },
+  { denom: 'USK', amount: '0.986172865516957086' }
+]
+Collateral Filter Price (CFP) =  0.01358376543662771
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.051803702055875799' },
+  { denom: 'USK', amount: '0.986172865516957086' }
+]
+Collateral Filter Price (CFP) =  0.050249590994199525
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2305.529309559993119360' },
+  { denom: 'USK', amount: '0.986172865516957086' }
+]
+Collateral Filter Price (CFP) =  2282.474016464393
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.277460198476904670' },
+  { denom: 'USK', amount: '0.986172865516957086' }
+]
+Collateral Filter Price (CFP) =  1.2391363925225976
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233563880628349617' },
+  { denom: 'USK', amount: '0.986172865516957086' }
+]
+Collateral Filter Price (CFP) =  0.22655696420949914
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.181152175225254482' },
+  { denom: 'USDC', amount: '0.999998871651818065' }
+]
+Collateral Filter Price (CFP) =  4.055717609968497
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.277460198476904670' },
+  { denom: 'USDC', amount: '0.999998871651818065' }
+]
+Collateral Filter Price (CFP) =  1.2391363925225976
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.685876165671796936' },
+  { denom: 'USK', amount: '0.986172865516957086' }
+]
+Collateral Filter Price (CFP) =  0.665299880701643
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69341.047313091279766078' },
+  { denom: 'USK', amount: '0.987585259388831595' }
+]
+Collateral Filter Price (CFP) =  68647.63683996037
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.873174779534166088' },
+  { denom: 'USK', amount: '0.987585259388831595' }
+]
+Collateral Filter Price (CFP) =  0.8469795361481411
+totalAmountOfCollateralAtRisk =  2166.4868969999998
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 },
+  { liquidationPrice: 64.383485 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.234191066965394258' },
+  { denom: 'USDC', amount: '0.999995611900891329' }
+]
+Collateral Filter Price (CFP) =  0.22716533495643243
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.234191066965394258' },
+  { denom: 'USDC', amount: '0.999995611900891329' }
+]
+Collateral Filter Price (CFP) =  0.22716533495643243
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.632241246601842458' },
+  { denom: 'USK', amount: '0.987585259388831595' }
+]
+Collateral Filter Price (CFP) =  10.419596421669805
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.852593497538843851' },
+  { denom: 'USK', amount: '0.987585259388831595' }
+]
+Collateral Filter Price (CFP) =  7.695541627588066
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.014000258057136402' },
+  { denom: 'USK', amount: '0.987585259388831595' }
+]
+Collateral Filter Price (CFP) =  0.013580250315422308
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.051852422818427678' },
+  { denom: 'USK', amount: '0.987651462053759979' }
+]
+Collateral Filter Price (CFP) =  0.050296850133874846
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2305.407531651163857663' },
+  { denom: 'USK', amount: '0.987651462053759979' }
+]
+Collateral Filter Price (CFP) =  2282.3534563346525
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.277126745725800011' },
+  { denom: 'USK', amount: '0.987651462053759979' }
+]
+Collateral Filter Price (CFP) =  1.238812943354026
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.234244544637660647' },
+  { denom: 'USK', amount: '0.987651462053759979' }
+]
+Collateral Filter Price (CFP) =  0.22721720829853082
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.195465625715845185' },
+  { denom: 'USDC', amount: '0.999908627621063325' }
+]
+Collateral Filter Price (CFP) =  4.06960165694437
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.277126745725800011' },
+  { denom: 'USDC', amount: '0.999908627621063325' }
+]
+Collateral Filter Price (CFP) =  1.238812943354026
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.686684808151957939' },
+  { denom: 'USK', amount: '0.987651462053759979' }
+]
+Collateral Filter Price (CFP) =  0.6660842639073993
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69384.125210852934777562' },
+  { denom: 'USK', amount: '0.987503456794891391' }
+]
+Collateral Filter Price (CFP) =  68690.2839587444
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.873095902999448546' },
+  { denom: 'USK', amount: '0.987395945548488244' }
+]
+Collateral Filter Price (CFP) =  0.846903025909465
+totalAmountOfCollateralAtRisk =  2166.4868969999998
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 },
+  { liquidationPrice: 64.383485 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.234723486564008635' },
+  { denom: 'USDC', amount: '0.999908354018227721' }
+]
+Collateral Filter Price (CFP) =  0.22768178196708835
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.234723486564008635' },
+  { denom: 'USDC', amount: '0.999908354018227721' }
+]
+Collateral Filter Price (CFP) =  0.22768178196708835
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.626126405729734861' },
+  { denom: 'USK', amount: '0.987395945548488244' }
+]
+Collateral Filter Price (CFP) =  10.41360387761514
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.848156834756732327' },
+  { denom: 'USK', amount: '0.987395945548488244' }
+]
+Collateral Filter Price (CFP) =  7.691193698061598
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.014008529685987324' },
+  { denom: 'USK', amount: '0.987395945548488244' }
+]
+Collateral Filter Price (CFP) =  0.013588273795407705
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.051879158582085122' },
+  { denom: 'USK', amount: '0.987395945548488244' }
+]
+Collateral Filter Price (CFP) =  0.05032278382462257
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2305.430027934656669543' },
+  { denom: 'USK', amount: '0.987395945548488244' }
+]
+Collateral Filter Price (CFP) =  2282.37572765531
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.275890465373205445' },
+  { denom: 'USK', amount: '0.987395945548488244' }
+]
+Collateral Filter Price (CFP) =  1.2376137514120094
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.234723486564008635' },
+  { denom: 'USK', amount: '0.987395945548488244' }
+]
+Collateral Filter Price (CFP) =  0.22768178196708835
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.189590253211816770' },
+  { denom: 'USDC', amount: '0.999908354018227721' }
+]
+Collateral Filter Price (CFP) =  4.063902545615462
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.275890465373205445' },
+  { denom: 'USDC', amount: '0.999908354018227721' }
+]
+Collateral Filter Price (CFP) =  1.2376137514120094
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.686806348737359454' },
+  { denom: 'USK', amount: '0.987395945548488244' }
+]
+Collateral Filter Price (CFP) =  0.6662021582752387
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69413.817303466610101535' },
+  { denom: 'USK', amount: '0.986680962016554432' }
+]
+Collateral Filter Price (CFP) =  68719.67913043195
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.872738384138770035' },
+  { denom: 'USK', amount: '0.986680962016554432' }
+]
+Collateral Filter Price (CFP) =  0.8465562326146069
+totalAmountOfCollateralAtRisk =  2166.4868969999998
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 64.383485 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.234723697328573208' },
+  { denom: 'USDC', amount: '0.999909252641014094' }
+]
+Collateral Filter Price (CFP) =  0.227681986408716
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.234723697328573208' },
+  { denom: 'USDC', amount: '0.999909252641014094' }
+]
+Collateral Filter Price (CFP) =  0.227681986408716
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.620718970678564064' },
+  { denom: 'USK', amount: '0.986680962016554432' }
+]
+Collateral Filter Price (CFP) =  10.408304591264992
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.840892631079386521' },
+  { denom: 'USK', amount: '0.986578864012631859' }
+]
+Collateral Filter Price (CFP) =  7.6840747784577985
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.014004692915049431' },
+  { denom: 'USK', amount: '0.986578864012631859' }
+]
+Collateral Filter Price (CFP) =  0.013584552127597948
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.051876418520861678' },
+  { denom: 'USK', amount: '0.986578864012631859' }
+]
+Collateral Filter Price (CFP) =  0.05032012596523583
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2305.468175088391405540' },
+  { denom: 'USK', amount: '0.986578864012631859' }
+]
+Collateral Filter Price (CFP) =  2282.4134933375076
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.276369161656616120' },
+  { denom: 'USK', amount: '0.986578864012631859' }
+]
+Collateral Filter Price (CFP) =  1.2380780868069177
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.234728310566072529' },
+  { denom: 'USK', amount: '0.986578864012631859' }
+]
+Collateral Filter Price (CFP) =  0.22768646124909034
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.189131944736044737' },
+  { denom: 'USDC', amount: '0.999928682877731142' }
+]
+Collateral Filter Price (CFP) =  4.0634579863939635
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.276369161656616120' },
+  { denom: 'USDC', amount: '0.999928682877731142' }
+]
+Collateral Filter Price (CFP) =  1.2380780868069177
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.685766948407551676' },
+  { denom: 'USK', amount: '0.986578864012631859' }
+]
+Collateral Filter Price (CFP) =  0.6651939399553252
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69368.369639548889528975' },
+  { denom: 'USK', amount: '0.986257066345937253' }
+]
+Collateral Filter Price (CFP) =  68674.68594315341
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.871519451081186428' },
+  { denom: 'USK', amount: '0.986257066345937253' }
+]
+Collateral Filter Price (CFP) =  0.8453738675487509
+totalAmountOfCollateralAtRisk =  2166.4868969999998
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 },
+  { liquidationPrice: 64.383485 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.234408775874131833' },
+  { denom: 'USDC', amount: '0.999922617084511171' }
+]
+Collateral Filter Price (CFP) =  0.22737651259790786
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.234408775874131833' },
+  { denom: 'USDC', amount: '0.999922617084511171' }
+]
+Collateral Filter Price (CFP) =  0.22737651259790786
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.602711169323080432' },
+  { denom: 'USK', amount: '0.986257066345937253' }
+]
+Collateral Filter Price (CFP) =  10.39065694593662
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.830838056874856615' },
+  { denom: 'USK', amount: '0.986257066345937253' }
+]
+Collateral Filter Price (CFP) =  7.674221295737359
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.013986203655190422' },
+  { denom: 'USK', amount: '0.986257066345937253' }
+]
+Collateral Filter Price (CFP) =  0.013566617545534709
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.051678224829608616' },
+  { denom: 'USK', amount: '0.986257066345937253' }
+]
+Collateral Filter Price (CFP) =  0.050127878084720356
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2307.191581083619915711' },
+  { denom: 'USK', amount: '0.986257066345937253' }
+]
+Collateral Filter Price (CFP) =  2284.1196652727835
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.276826569659681607' },
+  { denom: 'USK', amount: '0.986257066345937253' }
+]
+Collateral Filter Price (CFP) =  1.2385217725698912
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.234408775874131833' },
+  { denom: 'USK', amount: '0.986257066345937253' }
+]
+Collateral Filter Price (CFP) =  0.22737651259790786
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.189948727718378203' },
+  { denom: 'USDC', amount: '0.999922617084511171' }
+]
+Collateral Filter Price (CFP) =  4.064250265886827
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.276826569659681607' },
+  { denom: 'USDC', amount: '0.999922617084511171' }
+]
+Collateral Filter Price (CFP) =  1.2385217725698912
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.684712142085965936' },
+  { denom: 'USK', amount: '0.986257066345937253' }
+]
+Collateral Filter Price (CFP) =  0.664170777823387
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69358.528744374299441119' },
+  { denom: 'USK', amount: '0.986699939059365433' }
+]
+Collateral Filter Price (CFP) =  68664.94345693056
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.871418679490575172' },
+  { denom: 'USK', amount: '0.986788279020266636' }
+]
+Collateral Filter Price (CFP) =  0.8452761191058579
+totalAmountOfCollateralAtRisk =  2166.4868969999998
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 64.383485 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233525614774504776' },
+  { denom: 'USDC', amount: '0.999943900933382170' }
+]
+Collateral Filter Price (CFP) =  0.22651984633126965
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233525614774504776' },
+  { denom: 'USDC', amount: '0.999943900933382170' }
+]
+Collateral Filter Price (CFP) =  0.22651984633126965
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.603805207417143566' },
+  { denom: 'USK', amount: '0.986788279020266636' }
+]
+Collateral Filter Price (CFP) =  10.391729103268801
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.831365223511266858' },
+  { denom: 'USK', amount: '0.986788279020266636' }
+]
+Collateral Filter Price (CFP) =  7.674737919041042
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.013958664745814444' },
+  { denom: 'USK', amount: '0.986788279020266636' }
+]
+Collateral Filter Price (CFP) =  0.013539904803440011
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.051202869075127836' },
+  { denom: 'USK', amount: '0.986788279020266636' }
+]
+Collateral Filter Price (CFP) =  0.049666783002874
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2307.532812363074345618' },
+  { denom: 'USK', amount: '0.986788279020266636' }
+]
+Collateral Filter Price (CFP) =  2284.4574842394436
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.277808005466504632' },
+  { denom: 'USK', amount: '0.986788279020266636' }
+]
+Collateral Filter Price (CFP) =  1.2394737653025094
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233525614774504776' },
+  { denom: 'USK', amount: '0.986788279020266636' }
+]
+Collateral Filter Price (CFP) =  0.22651984633126965
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.179908082521286325' },
+  { denom: 'USDC', amount: '0.999943900933382170' }
+]
+Collateral Filter Price (CFP) =  4.054510840045647
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.277808005466504632' },
+  { denom: 'USDC', amount: '0.999943900933382170' }
+]
+Collateral Filter Price (CFP) =  1.2394737653025094
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.683978505448586962' },
+  { denom: 'USK', amount: '0.986788279020266636' }
+]
+Collateral Filter Price (CFP) =  0.6634591502851294
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69340.022261793800796339' },
+  { denom: 'USK', amount: '0.987376675260730213' }
+]
+Collateral Filter Price (CFP) =  68646.62203917585
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.871296369836410312' },
+  { denom: 'USK', amount: '0.987376675260730213' }
+]
+Collateral Filter Price (CFP) =  0.845157478741318
+totalAmountOfCollateralAtRisk =  2166.4868969999998
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 64.383485 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233240515365030924' },
+  { denom: 'USDC', amount: '0.999928142063239207' }
+]
+Collateral Filter Price (CFP) =  0.22624329990408
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233240515365030924' },
+  { denom: 'USDC', amount: '0.999928142063239207' }
+]
+Collateral Filter Price (CFP) =  0.22624329990408
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.593775177958449569' },
+  { denom: 'USK', amount: '0.987376675260730213' }
+]
+Collateral Filter Price (CFP) =  10.38189967439928
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.823662244446101078' },
+  { denom: 'USK', amount: '0.987376675260730213' }
+]
+Collateral Filter Price (CFP) =  7.667188999557179
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.013949626921659428' },
+  { denom: 'USK', amount: '0.987376675260730213' }
+]
+Collateral Filter Price (CFP) =  0.013531138114009644
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.050736802608898943' },
+  { denom: 'USK', amount: '0.987376675260730213' }
+]
+Collateral Filter Price (CFP) =  0.04921469853063197
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2307.519645028806501216' },
+  { denom: 'USK', amount: '0.987376675260730213' }
+]
+Collateral Filter Price (CFP) =  2284.4444485785184
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.277615712639671476' },
+  { denom: 'USK', amount: '0.987376675260730213' }
+]
+Collateral Filter Price (CFP) =  1.2392872412604812
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233240515365030924' },
+  { denom: 'USK', amount: '0.987376675260730213' }
+]
+Collateral Filter Price (CFP) =  0.22624329990408
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.178362298953334719' },
+  { denom: 'USDC', amount: '0.999928142063239207' }
+]
+Collateral Filter Price (CFP) =  4.053011429984735
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.277615712639671476' },
+  { denom: 'USDC', amount: '0.999928142063239207' }
+]
+Collateral Filter Price (CFP) =  1.2392872412604812
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.683743337773458805' },
+  { denom: 'USK', amount: '0.987376675260730213' }
+]
+Collateral Filter Price (CFP) =  0.663231037640255
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69441.739346851890063497' },
+  { denom: 'USK', amount: '0.988045724189553259' }
+]
+Collateral Filter Price (CFP) =  68747.32195338336
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.873122106597634332' },
+  { denom: 'USK', amount: '0.988116421141857495' }
+]
+Collateral Filter Price (CFP) =  0.8469284433997053
+totalAmountOfCollateralAtRisk =  2166.4868969999998
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 },
+  { liquidationPrice: 64.383485 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233354347685560824' },
+  { denom: 'USDC', amount: '0.999962394270834983' }
+]
+Collateral Filter Price (CFP) =  0.22635371725499398
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233354347685560824' },
+  { denom: 'USDC', amount: '0.999962394270834983' }
+]
+Collateral Filter Price (CFP) =  0.22635371725499398
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.638720271602714010' },
+  { denom: 'USK', amount: '0.988116421141857495' }
+]
+Collateral Filter Price (CFP) =  10.425945866170661
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.856557405327204794' },
+  { denom: 'USK', amount: '0.988116421141857495' }
+]
+Collateral Filter Price (CFP) =  7.699426257220661
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.013969552979770861' },
+  { denom: 'USK', amount: '0.988116421141857495' }
+]
+Collateral Filter Price (CFP) =  0.013550466390377736
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.050469668065354192' },
+  { denom: 'USK', amount: '0.988116421141857495' }
+]
+Collateral Filter Price (CFP) =  0.048955578023393564
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2307.352549428744860194' },
+  { denom: 'USK', amount: '0.988116421141857495' }
+]
+Collateral Filter Price (CFP) =  2284.2790239344577
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.277816303323277974' },
+  { denom: 'USK', amount: '0.988116421141857495' }
+]
+Collateral Filter Price (CFP) =  1.2394818142235795
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233354347685560824' },
+  { denom: 'USK', amount: '0.988116421141857495' }
+]
+Collateral Filter Price (CFP) =  0.22635371725499398
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.184421652630961286' },
+  { denom: 'USDC', amount: '0.999962394270834983' }
+]
+Collateral Filter Price (CFP) =  4.058889003052032
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.277816303323277974' },
+  { denom: 'USDC', amount: '0.999962394270834983' }
+]
+Collateral Filter Price (CFP) =  1.2394818142235795
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.686491059797644426' },
+  { denom: 'USK', amount: '0.988116421141857495' }
+]
+Collateral Filter Price (CFP) =  0.6658963280037151
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69464.159442112634020575' },
+  { denom: 'USK', amount: '0.988783055738894996' }
+]
+Collateral Filter Price (CFP) =  68769.5178476915
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.872999051608272900' },
+  { denom: 'USK', amount: '0.988919240156964627' }
+]
+Collateral Filter Price (CFP) =  0.8468090800600246
+totalAmountOfCollateralAtRisk =  2166.4868969999998
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 },
+  { liquidationPrice: 64.383485 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233781547770996081' },
+  { denom: 'USDC', amount: '0.999875487151142812' }
+]
+Collateral Filter Price (CFP) =  0.22676810133786618
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233781547770996081' },
+  { denom: 'USDC', amount: '0.999875487151142812' }
+]
+Collateral Filter Price (CFP) =  0.22676810133786618
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.621194147150218905' },
+  { denom: 'USK', amount: '0.988919240156964627' }
+]
+Collateral Filter Price (CFP) =  10.408770264207213
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.843536260184558200' },
+  { denom: 'USK', amount: '0.988919240156964627' }
+]
+Collateral Filter Price (CFP) =  7.686665534980867
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.013982437987133896' },
+  { denom: 'USK', amount: '0.988919240156964627' }
+]
+Collateral Filter Price (CFP) =  0.01356296484751988
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.050424044398384358' },
+  { denom: 'USK', amount: '0.988919240156964627' }
+]
+Collateral Filter Price (CFP) =  0.04891132306643283
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2308.374180657340217199' },
+  { denom: 'USK', amount: '0.988919240156964627' }
+]
+Collateral Filter Price (CFP) =  2285.290438850767
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.278037447266227424' },
+  { denom: 'USK', amount: '0.988919240156964627' }
+]
+Collateral Filter Price (CFP) =  1.2396963238482406
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233781547770996081' },
+  { denom: 'USK', amount: '0.988919240156964627' }
+]
+Collateral Filter Price (CFP) =  0.22676810133786618
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.181842026340375633' },
+  { denom: 'USDC', amount: '0.999875487151142812' }
+]
+Collateral Filter Price (CFP) =  4.056386765550164
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.278037447266227424' },
+  { denom: 'USDC', amount: '0.999875487151142812' }
+]
+Collateral Filter Price (CFP) =  1.2396963238482406
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.684087465594739596' },
+  { denom: 'USK', amount: '0.988919240156964627' }
+]
+Collateral Filter Price (CFP) =  0.6635648416268973
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69436.953721769243415568' },
+  { denom: 'USK', amount: '0.989486961236621231' }
+]
+Collateral Filter Price (CFP) =  68742.58418455155
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.871428755979652425' },
+  { denom: 'USK', amount: '0.989570629938557898' }
+]
+Collateral Filter Price (CFP) =  0.8452858933002628
+totalAmountOfCollateralAtRisk =  2166.4868969999998
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 64.383485 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233781578358950775' },
+  { denom: 'USDC', amount: '0.999942591164591949' }
+]
+Collateral Filter Price (CFP) =  0.22676813100818224
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233781578358950775' },
+  { denom: 'USDC', amount: '0.999942591164591949' }
+]
+Collateral Filter Price (CFP) =  0.22676813100818224
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.609671533169198158' },
+  { denom: 'USK', amount: '0.989637059691067634' }
+]
+Collateral Filter Price (CFP) =  10.397478102505813
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.835491392266191263' },
+  { denom: 'USK', amount: '0.989637059691067634' }
+]
+Collateral Filter Price (CFP) =  7.678781564420867
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.013966338591776251' },
+  { denom: 'USK', amount: '0.989637059691067634' }
+]
+Collateral Filter Price (CFP) =  0.013547348434022964
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.050370456980565419' },
+  { denom: 'USK', amount: '0.989637059691067634' }
+]
+Collateral Filter Price (CFP) =  0.04885934327114846
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2309.231541753764780244' },
+  { denom: 'USK', amount: '0.989637059691067634' }
+]
+Collateral Filter Price (CFP) =  2286.1392263362272
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.276339642537513227' },
+  { denom: 'USK', amount: '0.989637059691067634' }
+]
+Collateral Filter Price (CFP) =  1.238049453261388
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233760249356010744' },
+  { denom: 'USK', amount: '0.989637059691067634' }
+]
+Collateral Filter Price (CFP) =  0.2267474418753304
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.182326712703222397' },
+  { denom: 'USDC', amount: '0.999846089579429390' }
+]
+Collateral Filter Price (CFP) =  4.056856911322126
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.276339642537513227' },
+  { denom: 'USDC', amount: '0.999846089579429390' }
+]
+Collateral Filter Price (CFP) =  1.238049453261388
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.682880230008109892' },
+  { denom: 'USK', amount: '0.989637059691067634' }
+]
+Collateral Filter Price (CFP) =  0.6623938231078667
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69387.866195100747798999' },
+  { denom: 'USK', amount: '0.989525203632982090' }
+]
+Collateral Filter Price (CFP) =  68693.98753314975
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.871655009325300008' },
+  { denom: 'USK', amount: '0.989430818293811090' }
+]
+Collateral Filter Price (CFP) =  0.845505359045541
+totalAmountOfCollateralAtRisk =  2166.4868969999998
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 64.383485 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233780362842292892' },
+  { denom: 'USDC', amount: '0.999937389605833066' }
+]
+Collateral Filter Price (CFP) =  0.2267669519570241
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233780362842292892' },
+  { denom: 'USDC', amount: '0.999937389605833066' }
+]
+Collateral Filter Price (CFP) =  0.2267669519570241
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.607793268234205691' },
+  { denom: 'USK', amount: '0.989221895914905024' }
+]
+Collateral Filter Price (CFP) =  10.395637402869522
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.834479417295725138' },
+  { denom: 'USK', amount: '0.989221895914905024' }
+]
+Collateral Filter Price (CFP) =  7.677789828949811
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.013966882870605538' },
+  { denom: 'USK', amount: '0.989221895914905024' }
+]
+Collateral Filter Price (CFP) =  0.013547876384487371
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.050386439500731108' },
+  { denom: 'USK', amount: '0.989221895914905024' }
+]
+Collateral Filter Price (CFP) =  0.048874846315709174
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2309.164246605216329466' },
+  { denom: 'USK', amount: '0.989221895914905024' }
+]
+Collateral Filter Price (CFP) =  2286.072604139164
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.274271184907187762' },
+  { denom: 'USK', amount: '0.989221895914905024' }
+]
+Collateral Filter Price (CFP) =  1.2360430493599721
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233779558498802913' },
+  { denom: 'USK', amount: '0.989221895914905024' }
+]
+Collateral Filter Price (CFP) =  0.2267661717438388
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.185538265666703717' },
+  { denom: 'USDC', amount: '0.999929392283883965' }
+]
+Collateral Filter Price (CFP) =  4.059972117696702
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.274271184907187762' },
+  { denom: 'USDC', amount: '0.999929392283883965' }
+]
+Collateral Filter Price (CFP) =  1.2360430493599721
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.683051634937590677' },
+  { denom: 'USK', amount: '0.989221895914905024' }
+]
+Collateral Filter Price (CFP) =  0.6625600858894629
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69402.888375804542936207' },
+  { denom: 'USK', amount: '0.988026863985509766' }
+]
+Collateral Filter Price (CFP) =  68708.8594920465
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.869997152294773944' },
+  { denom: 'USK', amount: '0.988026863985509766' }
+]
+Collateral Filter Price (CFP) =  0.8438972377259307
+totalAmountOfCollateralAtRisk =  2217.2426459999997
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 64.383485 },
+  { liquidationPrice: 50.755749 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233760958448305545' },
+  { denom: 'USDC', amount: '0.999854396295726955' }
+]
+Collateral Filter Price (CFP) =  0.2267481296948564
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233760958448305545' },
+  { denom: 'USDC', amount: '0.999854396295726955' }
+]
+Collateral Filter Price (CFP) =  0.2267481296948564
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STATOM', amount: '10.596696802293610339' },
+  { denom: 'USK', amount: '0.987761839094331863' }
+]
+Collateral Filter Price (CFP) =  10.384762866247739
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'ATOM', amount: '7.826888224475973622' },
+  { denom: 'USK', amount: '0.987761839094331863' }
+]
+Collateral Filter Price (CFP) =  7.670350459986453
+totalAmountOfCollateralAtRisk =  0.000007
+collateralAtRiskArray =  [ { liquidationPrice: 0.000007 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STARS', amount: '0.013952644473874486' },
+  { denom: 'USK', amount: '0.987761839094331863' }
+]
+Collateral Filter Price (CFP) =  0.013534065139658252
+totalAmountOfCollateralAtRisk =  0.001016
+collateralAtRiskArray =  [ { liquidationPrice: 0.001016 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'SOMM', amount: '0.050366396450548193' },
+  { denom: 'USK', amount: '0.987761839094331863' }
+]
+Collateral Filter Price (CFP) =  0.048855404557031745
+totalAmountOfCollateralAtRisk =  0.00053
+collateralAtRiskArray =  [ { liquidationPrice: 0.00053 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'PAXG', amount: '2312.101021284004547197' },
+  { denom: 'USK', amount: '0.987761839094331863' }
+]
+Collateral Filter Price (CFP) =  2288.9800110711644
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.271970068952396165' },
+  { denom: 'USK', amount: '0.987555736059611694' }
+]
+Collateral Filter Price (CFP) =  1.2338109668838242
+totalAmountOfCollateralAtRisk =  0.000017
+collateralAtRiskArray =  [ { liquidationPrice: 0.000017 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233779909565600187' },
+  { denom: 'USK', amount: '0.987555736059611694' }
+]
+Collateral Filter Price (CFP) =  0.22676651227863218
+totalAmountOfCollateralAtRisk =  0.000187
+collateralAtRiskArray =  [ { liquidationPrice: 0.000187 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'AKT', amount: '4.184023784767930607' },
+  { denom: 'USDC', amount: '0.999935454417759947' }
+]
+Collateral Filter Price (CFP) =  4.058503071224893
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'KUJI', amount: '1.271970068952396165' },
+  { denom: 'USDC', amount: '0.999935454417759947' }
+]
+Collateral Filter Price (CFP) =  1.2338109668838242
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'FTM', amount: '0.683142776509428578' },
+  { denom: 'USK', amount: '0.987555736059611694' }
+]
+Collateral Filter Price (CFP) =  0.6626484932141457
+totalAmountOfCollateralAtRisk =  4022.980919012041
+collateralAtRiskArray =  [ { liquidationPrice: 4022.980919012041 } ]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'BTC', amount: '69471.951068548455838636' },
+  { denom: 'USK', amount: '0.986269801715121477' }
+]
+Collateral Filter Price (CFP) =  68777.23155786296
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'STOSMO', amount: '0.869816273773088035' },
+  { denom: 'USK', amount: '0.986269801715121477' }
+]
+Collateral Filter Price (CFP) =  0.8437217855598953
+totalAmountOfCollateralAtRisk =  2217.2426459999997
+collateralAtRiskArray =  [
+  { liquidationPrice: 2102.10335 },
+  { liquidationPrice: 0.000054 },
+  { liquidationPrice: 0.000008 },
+  { liquidationPrice: 50.755749 },
+  { liquidationPrice: 64.383485 }
+]
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+>>>>>> Trigger actions >>>>>>
+>>>>>> HTTP Response {
+  balances: [
+    {
+      denom: 'factory/kujira1e224c8ry0nuun5expxm00hmssl8qnsjkd02ft94p3m2a33xked2qypgys3/urcpt',
+      amount: '86584285'
+    },
+    {
+      denom: 'factory/kujira1jelmu9tdmr6hqg0d6qw4g6c9mwrexrzuryh50fwcavcpthp5m0uq20853h/urcpt',
+      amount: '89623703'
+    },
+    {
+      denom: 'factory/kujira1w4yaama77v53fp0f9343t9w2f932z526vj970n2jv5055a7gt92sxgwypf/urcpt',
+      amount: '83679789'
+    },
+    { denom: 'ukuji', amount: '1046810' }
+  ],
+  pagination: { next_key: null, total: '4' }
+}
+Revert to checking collateral at risk
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233683751539743794' },
+  { denom: 'USDC', amount: '0.999909550174873778' }
+]
+Collateral Filter Price (CFP) =  0.2266732389935515
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
+Oracle Price =  [
+  { denom: 'MNTA', amount: '0.233683751539743794' },
+  { denom: 'USDC', amount: '0.999909550174873778' }
+]
+Collateral Filter Price (CFP) =  0.2266732389935515
+totalAmountOfCollateralAtRisk =  0
+collateralAtRiskArray =  []
+Added ghost event
+Attempting to fetch stargate client
+Successfully fetched stargate client
+Balances { bids: [] }
+No pending bids
